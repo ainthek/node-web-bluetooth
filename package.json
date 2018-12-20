@@ -24,7 +24,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "keypress": "^0.2.1",
-    "noble": "^1.9.1",
+    "noble-mac": "git+https://github.com/Timeular/noble-mac.git",
     "term-canvas": "^0.0.5"
   },
   "devDependencies": {

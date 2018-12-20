@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('noble-mac');
 const EventTarget = require('./EventTarget');
 const requestDevice = require('./requestDevice');
 const RequestDeviceDelegate = require('./RequestDeviceDelegate');

@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('noble-mac');
 
 function getAvailability() {
 	if (noble.state !== 'unknown') {

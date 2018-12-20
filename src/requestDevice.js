@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('noble-mac');
 const {serviceToUuid, toNobleUuid} = require('./utils');
 const getAvailability = require('./getAvailability');
 const BluetoothDevice = require('./BluetoothDevice');
